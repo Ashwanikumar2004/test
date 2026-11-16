@@ -1,0 +1,7 @@
+{
+  "name": "forma-frontend-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Presentation-only enterprise work management frontend",
+  "scripts": { "start": "node serve.mjs", "check": "node --check app.js" }
+}
